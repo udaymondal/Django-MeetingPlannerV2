@@ -1,1 +1,3 @@
-# Django-MeetingPlannerV2
+# Django-MeetingPlann
+
+Complete version of pluralsight Django-Getting started 
